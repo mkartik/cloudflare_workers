@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A Cloudflare Workers application, that will randomly send users to one of two webpages, obtained by using the Fetch API. 
+A Cloudflare Workers application, that will randomly send users to one of two webpages in A/B testing style, where the redirection URL is obtained using the Fetch API. 
 
 ## Get Started
 
