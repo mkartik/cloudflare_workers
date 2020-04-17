@@ -4,13 +4,6 @@
 
 A Cloudflare Workers application, that will randomly send users to one of two webpages, obtained by using the Fetch API. 
 
-## Reference
-
-- [Workers Quick Start documentation](https://developers.cloudflare.com/workers/quickstart/)
-- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-- [HTMLRewriter](https://developers.cloudflare.com/workers/reference/apis/html-rewriter/)
-- [Cookie documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
-
 ## Get Started
 
 ### 1. Install the workers command-line tool wrangler.
@@ -22,3 +15,10 @@ To begin, install the [Wrangler](https://github.com/cloudflare/wrangler) command
 ### 2. Deploy your application
 
 Using wrangler's `publish` command, you can deploy your application and make it available under your workers.dev subdomain.
+
+## Reference
+
+- [Workers Quick Start documentation](https://developers.cloudflare.com/workers/quickstart/)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [HTMLRewriter](https://developers.cloudflare.com/workers/reference/apis/html-rewriter/)
+- [Cookie documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
