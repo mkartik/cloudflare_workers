@@ -51,7 +51,7 @@ class ElementHandler {
     this.headings = ['Ciao','Hola']
     this.paragraphs = ['Hi there!','Hey there!']
     this.navigate = ['Show me the code :)','Navigate to the code :)']
-    this.navigateUrl = 'https://github.com/mkartik/clouldflare_workers'
+    this.navigateUrl = 'https://github.com/mkartik/cloudflare_workers'
   }
   element(element) {
     if (element.tagName == 'title') {
